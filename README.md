@@ -1,4 +1,15 @@
-# clicks
+<p align="center">
+  <img src="logo.png" alt="Clicks Protocol" width="128" height="128" />
+</p>
+
+<h1 align="center">clicks</h1>
+
+<p align="center">
+  <a href="https://clicksprotocol.xyz"><img src="https://img.shields.io/badge/site-clicksprotocol.xyz-00ff88?style=flat-square" alt="Site" /></a>
+  <a href="https://github.com/clicks-protocol/clicks/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="License" /></a>
+  <a href="https://skills.sh"><img src="https://img.shields.io/badge/skills.sh-install-black?style=flat-square" alt="skills.sh" /></a>
+  <a href="https://basescan.org/token/0x8004A169FB4a3325136EB29fA0ceB6D2e539a432?a=45074"><img src="https://img.shields.io/badge/ERC--8004-agentId%2045074-6366f1?style=flat-square" alt="ERC-8004" /></a>
+</p>
 
 On-chain agent reputation for AI agents on Base. Built on ERC-8004.
 
